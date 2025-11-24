@@ -23948,3 +23948,7 @@ https://zylinski.se/index.xml
 https://zypper.net/rss
 https://zythophile.co.uk/feed/
 https://zzamboni.org/post/index.xml
+https://marketingjunto.com/rss/
+https://wpbuilds.com/feed/
+https://sethgoldstein.me/feed/
+https://thewpminute.com/feed/
